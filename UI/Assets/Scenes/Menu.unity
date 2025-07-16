@@ -619,7 +619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec806e16f3640704b817bfb1eccb839f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Jornal: 
+  Jornal: Jornal
 --- !u!1 &1416305893
 GameObject:
   m_ObjectHideFlags: 0
