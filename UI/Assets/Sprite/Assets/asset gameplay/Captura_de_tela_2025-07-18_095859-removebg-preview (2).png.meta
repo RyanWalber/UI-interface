@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1c4436e2b7d1d804f82508d7ea106e5b
+guid: 366eb638a14bacf498d0e9c83c5b216b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 55378511868902989
-    second: gli_0
+      213: -5752911865640895802
+    second: Captura_de_tela_2025-07-18_095859-removebg-preview (2)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gli_0
+      name: Captura_de_tela_2025-07-18_095859-removebg-preview (2)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 224
-        height: 200
+        width: 750
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4eb220967eb4c000800000000000000
-      internalID: 55378511868902989
+      spriteID: 6ca3850732d8920b0800000000000000
+      internalID: -5752911865640895802
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      gli_0: 55378511868902989
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
