@@ -1,16 +1,14 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CameraManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public Image telaCamera; 
+    public Sprite[] camerasSprites; 
 
-    // Update is called once per frame
-    void Update()
+    
+    public void MudarCamera(int index)
     {
-        
+        telaCamera.sprite = camerasSprites[index];
     }
 }
