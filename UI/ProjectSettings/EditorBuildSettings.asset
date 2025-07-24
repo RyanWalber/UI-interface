@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/cam.unity
     guid: 87d4e6ecf6a0426489bd99d6e7b008de
+  - enabled: 1
+    path: Assets/Scenes/susto.unity
+    guid: 6a460fdc643263844b0d26bb630ad729
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
